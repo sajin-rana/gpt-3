@@ -6,7 +6,7 @@
               get updates about the newest technology in the current world. The website provides
               many blogs about technology from experts from all around the world.</p>
 
-👉 Live Demo: <a href='https://gymate-stefvndev.vercel.app/'>GPT-3</a>
+👉 Live Demo: <a href=''>GPT-3</a>
 
 <h3>Build with:</h3>
 
